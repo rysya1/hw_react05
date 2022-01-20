@@ -1,0 +1,29 @@
+.key{
+    margin: 0 auto;
+    margin-left: 20px;
+    background-color: rgba(255, 112, 255, 0.397);
+    border-radius: 10px;
+    width: 350px;
+    margin-top: 30px;
+}
+.map p{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(https://images.unsplash.com/photo-1639628739763-3d4ada1a656a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+    border-radius: 15px;
+    width: 200px;
+    color: white;
+    margin-top: 20px;
+    margin-right: 72px;
+}
+.pefiks h3{
+    margin-top: 5px;
+    background-color: rgba(110, 204, 248, 0.582);
+    width: 55px;
+    height: 40px;
+    border-radius: 5px;
+    padding-top: 10px;
+    text-align: center;
+    margin-bottom: 5px;
+}
